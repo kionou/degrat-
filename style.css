@@ -1,0 +1,83 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.principal{
+    margin : 0 auto;
+    padding :0;
+    height : 100vh;
+    border :2px;
+    width :145vh;
+   
+    
+    background:yellow;
+    
+}
+
+.second{
+    margin: 0 auto;
+    padding: 60px;
+    display: flex;
+    /* border: 2px solid rgb(0, 0, 0); */
+}
+
+
+.red{
+    margin: 0;
+    padding: 0;
+    height :500px;
+    width: 400px;
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    
+    /* background:red; */
+
+}
+
+.blue{
+    margin: 0 ;
+    padding: 0;
+    height :500px;
+    width: 400px;
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    /* background:blue; */
+
+}
+
+.green{
+    margin: 0 ;
+    padding: 0;
+    height :500px;
+    width: 400px;
+    position: relative;
+    border: 2px solid rgb(0, 0, 0);
+    /* background:green; */
+
+}
+
+.input{
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 350px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.one{
+    margin: 8px;
+     padding: 5px; 
+    display: flex;
+    width: 250px;
+    height: 13px;
+    
+    
+}
+.can{
+    height: 300px;
+    width: 300px;
+    margin-top: 30px;
+    border: 2px solid rgb(0, 0, 0);
+}
